@@ -1,3 +1,5 @@
+/build
+/dist
 # Created by https://www.gitignore.io/api/node,linux,vim
 
 ### Node ###
